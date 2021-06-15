@@ -15,7 +15,7 @@
 
 1. write down all your ideas---usually not very readable
 2. pretend that you are the editor and clean up the text
-3. iterate steps 2 many times
+3. iterate step two many times
 
 Important note: It's OK if the text is not consistent after an iteration. You will fix it in the next iteration.
 
