@@ -35,4 +35,4 @@ Important note: It's OK if the text is not consistent after an iteration. You wi
 
 ## Resources
 
-* Use [this](https://www.statlearning.com) textbook
+* Textbook on statistical learning: [here](https://www.statlearning.com)
