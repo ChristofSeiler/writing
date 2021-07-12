@@ -32,3 +32,7 @@ Important note: It's OK if the text is not consistent after an iteration. You wi
 * What statistics / machine learning models are you going to apply? For example: Predict vector y from matrix X using random forests.
 * How are you going to find hyperparameters of your models? Do you have enough data to do cross-validation?
 * How are you going to assess uncertainty in your estimates? Bootstrap? Prediction intervals?
+
+## Resources
+
+* Use [this](https://www.statlearning.com) textbook
