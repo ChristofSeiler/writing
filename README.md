@@ -24,7 +24,7 @@ Important note: It's OK if the text is not consistent after an iteration. You wi
 * Lectures by Dr. Kristin Sainani on [YouTube](https://www.youtube.com/channel/UC-wb-n89yM0lBiP2QltsDaA/)
 * Lectures by Dr. Kristin Sainani on [Coursera](https://www.coursera.org/learn/sciwrite)
 
-# Internship Plan
+# Internship / Thesis Plan
 
 * What is the data?
 * What's the dimensionality of the data? How many features (columns), how many observations (rows)?
